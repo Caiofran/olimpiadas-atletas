@@ -1,6 +1,6 @@
 ## **README descontraído para o seu projeto de busca de atletas**
 
-**Para acessar a versão demo do projeto**
+**Para acessar a versão demo do projeto: **
 https://olimpiadas-atletas-eta.vercel.app/
 
 ### **Procurando seus ídolos do esporte?**
