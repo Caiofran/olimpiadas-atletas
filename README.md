@@ -41,10 +41,3 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para abrir 
 **# atletas # programação # JavaScript # HTML # CSS # esporte # busca # desenvolvedor**
 
 **** 
-
-**[Seu nome]** 
-**[Seu link para o LinkedIn ou GitHub]** 
-
-**P.S.:** Se você quiser adicionar mais humor ou referências específicas aos esportes, pode adaptar esse README à vontade! 
-
-**Que tal adicionar um gif animado de um atleta comemorando um gol para deixar o README ainda mais divertido?**
